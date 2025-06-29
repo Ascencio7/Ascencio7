@@ -15,7 +15,7 @@
 ## <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="50px"></picture> About me
 
 <picture>
-  <img align="right" src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif?raw=true" width="200"/>
+  <img align="right" src="https://64.media.tumblr.com/9cdc48de4efdc46bac36171ca3d3be11/tumblr_o665ffX1o91sshk0co1_1280.gif?raw=true" width="200"/>
 </picture>
 
 <ul>
