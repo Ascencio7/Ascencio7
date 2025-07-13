@@ -12,10 +12,10 @@
 
 <br>
 
-## <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="50px"></picture> About me
+## <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gi?raw=true" width="50px"></picture> About me
 
 <picture>
-  <img align="right" src="https://64.media.tumblr.com/9cdc48de4efdc46bac36171ca3d3be11/tumblr_o665ffX1o91sshk0co1_1280.gif?raw=true" width="200"/>
+  <img align="right" src="https://cdna.artstation.com/p/assets/images/images/050/392/584/original/nelson-tiapa-gif-celebracion-1.gif?1654733402?raw=true" width="200"/>
 </picture>
 
 <ul>
