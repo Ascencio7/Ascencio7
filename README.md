@@ -21,7 +21,7 @@
 <ul>
   <li>🎓 Soy estudiante de Desarrollo de Software en ITCA-FEPADE, con enfoque en prácticas y proyectos.</li>
   <li>📚 Actualmente profundizo en temas de programación y base de datos.</li>
-  <li>👨‍💻 Tengo 2 años de experiencia como estudiante junior en desarrollo de software.</li>
+  <li>👨‍💻 Tengo 3 años de experiencia como estudiante junior en desarrollo de software.</li>
   <li>💡 Me apasiona crear soluciones eficientes mediante el uso de la tecnología.</li>
   <li>💻 Disfruto los retos de la programación competitiva y la mejora continua de mis habilidades.</li>
   <li>🤓 Siempre busco aprender algo nuevo, ya sea una tecnología, lenguaje o herramienta.</li>
