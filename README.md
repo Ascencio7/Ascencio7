@@ -70,50 +70,63 @@
 
 ## 🚀 Featured Projects
 
+## 🚀 Featured Projects
+
 <p align="center">
   <a href="https://github.com/Ascencio7/proyecto_web">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ascencio7&repo=proyecto_web&theme=tokyonight" />
+    Proyecto Web ⭐ 
+    <img src="https://img.shields.io/github/stars/Ascencio7/proyecto_web?style=for-the-badge&logo=github&color=blue" />
   </a>
   <a href="https://github.com/Ascencio7/Tradingview">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ascencio7&repo=Tradingview&theme=tokyonight" />
+    Tradingview ⭐ 
+    <img src="https://img.shields.io/github/stars/Ascencio7/Tradingview?style=for-the-badge&logo=github&color=blue" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/Ascencio7/Spotify">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ascencio7&repo=Spotify&theme=tokyonight" />
+    Spotify ⭐ 
+    <img src="https://img.shields.io/github/stars/Ascencio7/Spotify?style=for-the-badge&logo=github&color=blue" />
   </a>
   <a href="https://github.com/Ascencio7/GitHub-Buscador-Perfil">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ascencio7&repo=GitHub-Buscador-Perfil&theme=tokyonight" />
+    GitHub Buscador Perfil ⭐ 
+    <img src="https://img.shields.io/github/stars/Ascencio7/GitHub-Buscador-Perfil?style=for-the-badge&logo=github&color=blue" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/Ascencio7/ITCA-Horas-Sociales">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ascencio7&repo=ITCA-Horas-Sociales&theme=tokyonight" />
+    ITCA Horas Sociales ⭐ 
+    <img src="https://img.shields.io/github/stars/Ascencio7/ITCA-Horas-Sociales?style=for-the-badge&logo=github&color=blue" />
   </a>
   <a href="https://github.com/Ascencio7/HospiPlusNuevo">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ascencio7&repo=HospiPlusNuevo&theme=tokyonight" />
+    HospiPlusNuevo ⭐ 
+    <img src="https://img.shields.io/github/stars/Ascencio7/HospiPlusNuevo?style=for-the-badge&logo=github&color=blue" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/Ascencio7/GestorInventario">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ascencio7&repo=GestorInventario&theme=tokyonight" />
+    Gestor Inventario ⭐ 
+    <img src="https://img.shields.io/github/stars/Ascencio7/GestorInventario?style=for-the-badge&logo=github&color=blue" />
   </a>
   <a href="https://github.com/Ascencio7/MascotaFormulario">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ascencio7&repo=MascotaFormulario&theme=tokyonight" />
+    Mascota Formulario ⭐ 
+    <img src="https://img.shields.io/github/stars/Ascencio7/MascotaFormulario?style=for-the-badge&logo=github&color=blue" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/Ascencio7/Editor-MacOS">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ascencio7&repo=Editor-MacOS&theme=tokyonight" />
+    Editor MacOS ⭐ 
+    <img src="https://img.shields.io/github/stars/Ascencio7/Editor-MacOS?style=for-the-badge&logo=github&color=blue" />
   </a>
   <a href="https://github.com/Ascencio7/Reproductor-Musica-Funcional">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ascencio7&repo=Reproductor-Musica-Funcional&theme=tokyonight" />
+    Reproductor Música Funcional ⭐ 
+    <img src="https://img.shields.io/github/stars/Ascencio7/Reproductor-Musica-Funcional?style=for-the-badge&logo=github&color=blue" />
   </a>
 </p>
+
 
 ✨ *Explore more projects on my GitHub profile!*
 
