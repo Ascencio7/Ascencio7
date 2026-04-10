@@ -70,13 +70,35 @@
 
 ## 🚀 Featured Projects
 
-## 🚀 Featured Projects
+<p align="center">
+  <a href="https://github.com/Ascencio7/BaratheonX">
+    BaratheonX ⭐ 
+    <img src="https://img.shields.io/github/stars/Ascencio7/BaratheonX?style=for-the-badge&logo=github&color=blue" />
+  </a>
+  <a href="https://github.com/Ascencio7/proyecto_web">
+    Graficos en Android Studio ⭐ 
+    <img src="https://img.shields.io/github/stars/Ascencio7/Budget?style=for-the-badge&logo=github&color=blue" />
+  </a>
+</p>
 
 <p align="center">
+  <a href="https://github.com/Ascencio7/restaurante">
+    Restaurante Python ⭐ 
+    <img src="https://img.shields.io/github/stars/Ascencio7/restaurante?style=for-the-badge&logo=github&color=blue" />
+  </a>
+    <a href="https://github.com/Ascencio7/farmacia_proyecto">
+    Farmacia Fleming ⭐ 
+    <img src="https://img.shields.io/github/stars/Ascencio7/farmacia_proyecto?style=for-the-badge&logo=github&color=blue" />
+  </a>
+</p>
+
+<p align="center">
+
   <a href="https://github.com/Ascencio7/proyecto_web">
     Proyecto Web ⭐ 
     <img src="https://img.shields.io/github/stars/Ascencio7/proyecto_web?style=for-the-badge&logo=github&color=blue" />
   </a>
+
   <a href="https://github.com/Ascencio7/Tradingview">
     Tradingview ⭐ 
     <img src="https://img.shields.io/github/stars/Ascencio7/Tradingview?style=for-the-badge&logo=github&color=blue" />
